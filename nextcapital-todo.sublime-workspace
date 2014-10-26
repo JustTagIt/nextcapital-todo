@@ -523,7 +523,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 1705,
+				"buffer_size": 1706,
 				"line_ending": "Windows"
 			}
 		},
@@ -579,6 +579,7 @@
 	},
 	"file_history":
 	[
+		"/C/Users/test/Documents/GitHub/mkreiser.github.io/nextcapital-todo/index.html",
 		"/C/Users/test/Documents/GitHub/nextcapital-todo/client/js/todo.client.js",
 		"/C/Users/test/Documents/GitHub/nextcapital-todo/client/js/jQueryColor.js",
 		"/C/Users/test/Documents/GitHub/nextcapital-todo/style.css",
@@ -705,8 +706,7 @@
 		"/C/Users/test/Dropbox (Traffic)/Traffic/Mobile Apps/ODOT BWT App/Dev/cordova.js",
 		"/C/Users/test/Dropbox (Traffic)/Traffic/snow&ice/routes/Dev/odot-test/D6/FEB 2014/2-17/index.html",
 		"/C/Users/test/Dropbox (Traffic)/Traffic/snow&ice/routes/odot-test/D1/JAN 2014/1-5/index.html",
-		"/C/Users/test/Dropbox (Traffic)/Traffic/snow&ice/routes/odot-test/D1/JAN 2014/index.html",
-		"/C/Users/test/Dropbox (Traffic)/Traffic/ODOT BWT App/Dev/styles.css"
+		"/C/Users/test/Dropbox (Traffic)/Traffic/snow&ice/routes/odot-test/D1/JAN 2014/index.html"
 	],
 	"find":
 	{
@@ -724,6 +724,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"text",
 			"updateTodo",
 			"span",
 			"onclick",
@@ -850,8 +851,7 @@
 			"county-wrap",
 			"Henry",
 			"Fulton",
-			"159B6A",
-			"FFFFFF"
+			"159B6A"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -879,15 +879,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1705,
+						"buffer_size": 1706,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								896,
-								896
+								687,
+								687
 							]
 						],
 						"settings":
@@ -927,7 +927,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -989,11 +989,11 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1083,7 +1083,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
